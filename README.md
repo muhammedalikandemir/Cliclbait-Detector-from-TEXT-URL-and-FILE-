@@ -51,15 +51,15 @@ python main.py
 ## Interface Screenshots
 
 ### 🏠 Main Page
-![Main Page](Ekran_Görüntüleri/MainPage.png)
+![Main Page](Screenshots/FilePage.png)
 
 ### 📝 Text Input & Result Page
-![Text Page](Ekran_Görüntüleri/TextPage.png)
-![Result Page](Ekran_Görüntüleri/TextResultPage.png)
+![Text Page](Screenshots/TextPage.png)
+![Result Page](Screenshots/TextResultPage.png)
 
 ### 🌐 URL Input & Result Page
-![URL Page](Ekran_Görüntüleri/URLandURLResultPage.png)
+![URL Page](Screenshots/URLandURLResultPage.png)
 
 ### 📂 File Input & Result Page
-![File Page](Ekran_Görüntüleri/FilePage.png)
-![Result Page](Ekran_Görüntüleri/FileResutlPage.png)
+![File Page](Screenshots/FilePage.png)
+![Result Page](Screenshots/FileResutlPage.png)
