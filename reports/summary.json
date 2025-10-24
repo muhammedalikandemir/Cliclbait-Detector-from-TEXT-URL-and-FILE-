@@ -1,0 +1,27 @@
+{
+  "accuracy": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "samples": 1000,
+  "class_distribution": {
+    "0": 500,
+    "1": 500
+  },
+  "confusion_matrix": [
+    [
+      100,
+      0
+    ],
+    [
+      0,
+      100
+    ]
+  ],
+  "duplicates_unique_hashes": 1000,
+  "duplicates_repeated_hash_count": 0,
+  "duplicates_ratio": 0.0,
+  "model_type": "logreg",
+  "random_state": 42,
+  "vocab_size": 606
+}
