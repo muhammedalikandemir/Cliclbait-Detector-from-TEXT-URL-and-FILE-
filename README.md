@@ -1,6 +1,6 @@
 # 🧠 Clickbait Detector from Text, URL, and File
 
-This project was developed by **Ali M. Kandemir** and **Bilal İzzettin** for the **Data Mining** course.  
+This project was developed by **Muhammed Ali Kandemir** and **Bilal İzzettin** for the **Data Mining** course.  
 It uses **BERT** and **TF-IDF** models to detect whether a given text is *clickbait* or not.  
 Additionally, **URL** and **file** input options are available — allowing the program to fetch text from web pages or read it directly from uploaded files.  
 
